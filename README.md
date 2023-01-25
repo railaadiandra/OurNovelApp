@@ -2,7 +2,7 @@
 Our Novel App using firebase database, firebase auth,firebase storage,circleimageview and glide.
 
 tampilan Menu
-![WhatsApp Image 2023-01-25 at 07 02 35 (1)](https://user-images.githubusercontent.com/53504347/214472940-707371ce-ee52-4365-b557-249ae3b64c03.jpeg)
+
 <a href="[WhatsApp Image 2023-01-25 at 07 02 35 (1)]"><img src="[http://url.to/image.png](https://user-images.githubusercontent.com/53504347/214472940-707371ce-ee52-4365-b557-249ae3b64c03.jpeg)" align="left" height="48" width="48" ></a>
 
 Tampilan list Cerita
