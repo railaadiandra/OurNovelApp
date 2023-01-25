@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "871244839556",
+    "project_id": "ournovelapp",
+    "storage_bucket": "ournovelapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871244839556:android:8d2f775b4f9bd32ab4a0d1",
+        "android_client_info": {
+          "package_name": "com.uas.ournovelapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871244839556-4255v6bd8rvm9rtp55epmud3gok4v084.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.uas.ournovelapp",
+            "certificate_hash": "9e0f66794c7e5f83013c1d18f10a7e8a774bb067"
+          }
+        },
+        {
+          "client_id": "871244839556-gne4cnenildo0d9plnk5gbjgqjr81ono.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQahmpKw0J6jWBSY-svDTAHR_KBc_Z9eU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871244839556-gne4cnenildo0d9plnk5gbjgqjr81ono.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
