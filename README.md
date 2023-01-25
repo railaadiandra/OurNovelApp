@@ -15,7 +15,7 @@
 <br>
 <br>
 <a>Tampilan Submit Cerita</a>
-<a href="https://user-images.githubusercontent.com/53504347/214472986-e3521be9-b40e-48c8-a308-fe1a673234f1.jpeg" <img src="http://url.to/WhatsApp Image 2023-01-25 at 07 02 36" align="left" height="48" width="48" ></a>
+<a href="https://user-images.githubusercontent.com/53504347/214472986-e3521be9-b40e-48c8-a308-fe1a673234f1.jpeg"> <img src="http://url.to/WhatsApp Image 2023-01-25 at 07 02 36" align="left" height="48" width="48" ></a>
 
 
 
