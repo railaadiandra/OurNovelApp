@@ -1,5 +1,5 @@
 # OurNovelApp
-Our Novel App using firebase database, firebase auth,firebase storage,circleimageview and glide.
+<h1>Our Novel App using firebase database, firebase auth,firebase storage,circleimageview and glide.</h1>
 
 tampilan Menu
 ![WhatsApp Image 2023-01-25 at 07 02 35 (1)](https://user-images.githubusercontent.com/53504347/214472940-707371ce-ee52-4365-b557-249ae3b64c03.jpeg)
